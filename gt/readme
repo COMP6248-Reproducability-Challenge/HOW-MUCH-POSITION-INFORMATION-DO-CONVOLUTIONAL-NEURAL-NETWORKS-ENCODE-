@@ -1,0 +1,1 @@
+gradient-like masks in Horizontal (H) and vertical (V) directions. Similarly, we apply a Gaussian filter to design another type of ground-truth map, Gaussian distribution (G)
