@@ -3,29 +3,29 @@ feature maps which extracted from DUTS-TE dataset by VGG16 and ResNet, use to in
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by (fpos1, fpos2, fpos3, fpos4, fpos5).
 training_features_.npy
 training_features_vgg_.npy
-training_features_resnent_.npy
+training_features_resnet_.npy
 
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by fpos1.
 training_features_1.npy
 training_features_vgg_1.npy
-training_features_resnent_1.npy
+training_features_resnet_1.npy
 
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by fpos2.
 training_features_2.npy
 training_features_vgg_2.npy
-training_features_resnent_2.npy
+training_features_resnet_2.npy
 
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by fpos3.
 training_features_3.npy
 training_features_vgg_3.npy
-training_features_resnent_3.npy
+training_features_resnet_3.npy
 
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by fpos4.
 training_features_4.npy
 training_features_vgg_4.npy
-training_features_resnent_4.npy
+training_features_resnet_4.npy
 
 # The extracted multi-scale features from bottom to top layers of the canonical network are denoted by fpos5.
 training_features_5.npy
 training_features_vgg_5.npy
-training_features_resnent_5.npy
+training_features_resnet_5.npy
