@@ -10,6 +10,16 @@ DUTS Dataset: Test (images and ground-truth): http://saliencydetection.net/duts/
 
 # FILE EXPLAIN
 images --> images using to evolution
+
 gt --> generated ground-truth
+
 weights --> the weights of PosENet, VGG and Resnet model we generated
+
 code --> all the code we wrote
+
+# Email
+ Daji LI dl5n19@soton.ac.uk
+ 
+ Nian LIU nl2y19@soton.ac.uk
+ 
+ Tian ZHOU tz3n19@soton.ac.uk
