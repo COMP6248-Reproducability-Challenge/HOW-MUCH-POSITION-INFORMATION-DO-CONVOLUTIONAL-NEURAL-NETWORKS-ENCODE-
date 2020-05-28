@@ -12,6 +12,7 @@ In this review report, we introduce a different training dataset to reproduce th
 DATASET
 
 DUTS Dataset: Training (images and ground-truth): http://saliencydetection.net/duts/download/DUTS-TR.zip
+
 DUTS Dataset: Test (images and ground-truth): http://saliencydetection.net/duts/download/DUTS-TE.zip (this we used)
 
 
@@ -19,5 +20,7 @@ DUTS Dataset: Test (images and ground-truth): http://saliencydetection.net/duts/
 FILE EXPLAIN
 
 images --> images for test
+
 gt --> generated ground-truth
+
 weights --> the weights of PosENet, VGG and Resnet model we generated
