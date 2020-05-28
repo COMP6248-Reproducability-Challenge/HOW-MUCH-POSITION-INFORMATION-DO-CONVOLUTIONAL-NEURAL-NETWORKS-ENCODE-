@@ -19,7 +19,7 @@ DUTS Dataset: Test (images and ground-truth): http://saliencydetection.net/duts/
 
 FILE EXPLAIN
 
-images --> images for test
+images --> images using to evolution
 
 gt --> generated ground-truth
 
