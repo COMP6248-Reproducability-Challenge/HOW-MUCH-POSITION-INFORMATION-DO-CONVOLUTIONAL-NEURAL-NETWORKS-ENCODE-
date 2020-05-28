@@ -1,0 +1,7 @@
+model*.weight --> PosENet
+
+model_vgg*.weight --> VGG16
+
+mode_resnet*.weight --> ResNet152
+
+example: 'model_3_0_gau.weights' means 'PosENet + kernel size = 3 + padding=0 + ground-truth=Gaussian'
