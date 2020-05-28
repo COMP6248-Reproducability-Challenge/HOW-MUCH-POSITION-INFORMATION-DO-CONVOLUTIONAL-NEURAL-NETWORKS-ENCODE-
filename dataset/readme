@@ -1,3 +1,2 @@
-DUTS
-pascal
-master --> ground-truth
+DUTS --> dataset for training
+master --> generated ground-truth
