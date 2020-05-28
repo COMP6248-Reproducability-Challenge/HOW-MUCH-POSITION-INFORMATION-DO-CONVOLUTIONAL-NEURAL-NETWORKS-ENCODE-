@@ -1,5 +1,5 @@
 # HOW-MUCH-POSITION-INFORMATION-DO-CONVOLUTIONAL-NEURAL-NETWORKS-ENCODE-
-Reproduce the paper named 'HOW MUCH POSITION INFORMATION DO CONVOLUTIONAL NEURAL NETWORKS ENCODE?', which published as a conference paper at ICLR 2020.
+Reproduce the paper named 'HOW MUCH POSITION INFORMATION DO CONVOLUTIONAL NEURAL NETWORKS ENCODE?', which published as a conference paper at ICLR 2020. The original paper: https://arxiv.org/pdf/2001.08248.pdf
 
 
 
@@ -24,3 +24,5 @@ images --> images for test
 gt --> generated ground-truth
 
 weights --> the weights of PosENet, VGG and Resnet model we generated
+
+code --> all the code we wrote
