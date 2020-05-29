@@ -8,7 +8,7 @@ In this review report, we introduce a different training dataset to reproduce th
 DUTS Dataset: Training (images and ground-truth): http://saliencydetection.net/duts/download/DUTS-TR.zip
 DUTS Dataset: Test (images and ground-truth): http://saliencydetection.net/duts/download/DUTS-TE.zip (this we used)
 
-# FILE EXPLAIN
+# FILE EXPLAINATION
 images --> images using to evolution
 
 gt --> generated ground-truth
